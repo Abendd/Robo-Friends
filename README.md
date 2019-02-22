@@ -1,6 +1,5 @@
-robofriends
-Tutorial for udemy course - React To run the project:
+#Robofriends
 
-Clone this repo
-Run npm install
-Run npm start
+##Clone this repo,
+##Run npm install,
+##Run npm start
